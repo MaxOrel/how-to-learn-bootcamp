@@ -1,0 +1,10 @@
+.button_type_secondary {
+    border-color: rgb(207, 229, 236);
+    background-color: aliceblue;
+    color: darkslategrey;
+}
+
+.button_type_secondary:hover {
+    background-color: rgb(52, 129, 197);
+    color: rgb(185, 213, 237);
+}

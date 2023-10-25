@@ -1,0 +1,10 @@
+.button_type_primary {
+  border-color: rgb(226, 138, 138);
+  background-color: rgb(250, 153, 128);
+  color: rgb(92, 0, 0);
+}
+
+.button_type_primary:hover {
+  background-color: brown;
+  color: azure;
+}

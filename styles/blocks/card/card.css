@@ -1,0 +1,7 @@
+.card {
+    font-family: Arial, Helvetica, serif;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgb(233, 233, 233);
+    position: relative;
+}
